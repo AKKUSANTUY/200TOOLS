@@ -14,26 +14,38 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 
-echo $blue "Loading."
+echo $blue "Loading Cuk."
 sleep 1
 clear
-echo $green "Loading.."
+echo $green ">>>Loading Cuk.."
 sleep 1
 clear
-echo $yellow "Loading..."
+echo $yellow ">>>Loading Cuk..."
 sleep 1
 clear
-echo $purple "Loading...."
+echo $purple ">>>Loading Cuk...."
 sleep 1
 clear
-echo $blue "Loading....."
+echo $blue ">>>Loading Cuk....."
 sleep 1
 clear
-echo $green "Loading......"
+echo $green ">>>Loading Cuk......"
 sleep 1
 clear
-echo $yellow "Loading......."
+echo $yellow ">>>Loading Cuk......."
 sleep 1
+clear
+echo $red "[!]Masukan Username Dan Password Cuk[!]"
+echo
+read -f $green " Username : "pil
+read -f $cyan " Password : "pil
+echo
+sleep 1
+echo $red " [!] SEDANG LOGIN CUK [!] "
+echo
+sleep 2
+echo $cyan " Login Berhasil.. Btw Itu Candaan Doank Cuk wkwkwk"
+sleep 3
 clear
 
 echo "\033[0;32m]
