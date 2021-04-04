@@ -1,6 +1,9 @@
 #!/system/xbin/bash
-#Jangan di recode dong ster 
-#usaha kalo gk bisa nanya 
+#plis Jangan di recode dong cuk 
+#gwe bilang lu mampu nga bos jan recode mulu cuk
+#Jangan Lupa Istighfar Kita Semua Pendosa Cuk
+#WhatsApp  : 082134566596
+#Instagram : Akku_Santuy
 
 
 blue='\033[34;1m'
@@ -41,16 +44,16 @@ echo "\033[0;32m]
   //// / // :    : ---
  // /   /  /*    *--
 //          //..\\
-+===========¥====¥========================+
-+ coded by : InYourG00D                   +
-+ Team : LNX#CREW S.T.C BUFT              +
-+ kontak me : 62895805133060              +
-+ GitHub : https://github.com/InYourG00D1 +
-+=========================================+
-  ^...^                     ^...^
- <_* *_> Tols Installer V2 <_* *_> 
-   \_/                       \_/   ";
-echo $red "[!]MENU"
++===========¥====¥==========================+
++ Coded by : Santri Cyber Santuy            +
++ Team     : From Santri To Kyai            +
++ WhatsApp : +6282134566596                 +
++ GitHub   : https://github.com/AKKUSANTUY  +
++===========================================+
+  ^...^                       ^...^
+ <_* *_> 200 Tools Installer <_* *_> 
+   \_/                         \_/   ";
+echo $red "[!]MENU TOOLS CUK[!]"
 echo $green "[===============================[>"
 echo "1.PHISING"|lolcat
 echo $cyan "[===============================[>"
@@ -454,7 +457,8 @@ echo "200.Install wifresti"|lolcat
 echo $blue "[===============================[>"
 echo "00.Ini Out"|lolcat
 echo $yellow "[==============================]>"
-read -p "[root@IndoDark~#" rgl
+echo $blue "[!]SILAKAN PILIH TOOLS NYA CUK[!]"
+read -p "[root@IndoDarkNetCuk~#" rgl
 
 if [ $rgl = 1 ] || [ $rgl = 1 ]
 then
