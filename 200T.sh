@@ -36,9 +36,10 @@ echo $yellow ">>>Loading Cuk......."
 sleep 1
 clear
 echo $red "[!]Masukan Username Dan Password Cuk[!]"
+echo $yellow "Hubungi Author Kalau Tidak Tau Cuk"
 echo
-read -f $green " Username : "pil
-read -f $cyan " Password : "pil
+read -p $green " Username : "rgl
+read -p $cyan " Password : "rgl
 echo
 sleep 1
 echo $red " [!] SEDANG LOGIN CUK [!] "
