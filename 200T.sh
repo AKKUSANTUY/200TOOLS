@@ -1895,17 +1895,18 @@ fi
 
 if [ $rgl = 00 ] || [ $rgl = 00 ]
 then 
-echo $blue "Loading."
+echo $blue "Loading Cuk."
 sleep 1
 clear
-echo $green "Loading.."
+echo $green "Loading Cuk.."
 sleep 1
 clear
-echo $yellow "Loading..."
+echo $yellow "Loading Cuk..."
 sleep 1
 clear
-echo $green "Jangan Lupa Follow GitHub Gw"
-echo $yellow "Thanks To All Mem S0UL T3AM CYB3R - LNX#CREW - Girls Mafia Team"
+echo $green "Jangan Lupa Follow Instagram Dan GitHub Gw For Folback"
+echo $yellow "Thanks To All Mem S0UL T3AM CYB3R - Santri Cyber - LNX#CREW - Girls Mafia Team"
 echo $red "Thanks To = 3Xploit - Pku.LNX# - UnKnownz - InYourG00D - XpL3Z - DriXploit - ./c0d3x.3rr - Vijune15 - March7| - XZ3PRO - Extazy | Wannabe_ID | Look-T | Tuan Swam | Busted | Fr33ze |"
-echo $blue "Bye Bye"
+echo $cyan "Message : JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
+echo $blue "Assalamu'alaikum Cuk"
 fi
